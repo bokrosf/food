@@ -1,7 +1,7 @@
 # Bulgogi
 
 ## Hozzávalók
-- 30-40 dkg hátszín steak 4 adaghoz. A lényeg hogy szép zsíros legyen.
+- 40-50 dkg hátszín steak 4 adaghoz. A lényeg hogy szép zsíros legyen.
 - 1 nagyobb fej vöröshagyma
 - 2 gerezd fokhagyma
 - 1 újhagyma
