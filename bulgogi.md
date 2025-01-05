@@ -6,7 +6,7 @@
 - 2 gerezd fokhagyma
 - 1 újhagyma
 - 1 tk gyömbér
-- 5-6 cm-es nashi körte cikkely vagy 0.5 evk kivi lé
+- 2 evk reszelt nashi körte vagy 1 evk apróra vágott kivi
 - 2.5 evk fekete szójaszósz
 - 1.5 evk osztrigaszósz
 - 1.5 evk barna cukor
