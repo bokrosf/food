@@ -11,7 +11,7 @@
 2. Közepes lángon amikor elolvadt a cukor és kezdene forrni, akkor hozzá kell keverni 0.66 - 0.5-öd részét a tápióka lisztnek, hogy egy sűrűbb, de még kenhető massza alakuljon ki. Kb. 6 másodpercig kell keverni.
 3. Le kell kapcsolni a tűzhelyet és hozzá kell adni a maradék tápióka lisztet és tészta massza szerűre kell gyúrni.
 4. Addig kell gyúrni amíg sima nem lesz a felülete. Még nagyon kicsit nyúlós legyen mintha tapadni akarna, de ne tapadjon a nyújtódeszkára.
-5. Nyújtódeszkán egy részéből kígyót formázni és kb. 20-30 borsó nagyságú gömböt formázni egy adat teához.
+5. Nyújtódeszkán egy részéből kígyót formázni és kb. 20-30 borsó nagyságú gömböt formázni egy adag teához.
 6. Egy tápióka lisztes edénybe kell belerakni a gömböket és abban görgetni, hogy ne tapadjanak össze.
 7. Ezeket a golyókat le is lehet fagyasztani 3 hónapra.
 8. Golyókat forró vízbe belerakni és 30 percig főzni, fagyasztott esetén 5 perccel tovább.
