@@ -1,7 +1,7 @@
 # Jeyuk Bokkeum
 
 ## Hozzávalók
-4 adaghoz
+2 adaghoz
 - 40-45 dkg sertés császár vagy lapocka, zsíros legyen
 - 1 nagy vöröshagyma
 
