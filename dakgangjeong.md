@@ -16,7 +16,7 @@
 - 2 tk sütőpor
 
 ## Nedves panír
-- 0.5 bögre száraz panír
+- 0.5 bögre újabb adag száraz panír
 - 0.5 bögre hideg víz, szénsavassal lazább lesz a panír
 
 ## Panírozás
@@ -36,7 +36,7 @@
 - 4-5 gerezd apróra vágott fokhagyma
 - 2 evk gochujang
 - 1.5 evk méz
-- 2.5 evk szójaszósz
+- 1 evk szójaszósz
 - 1-2 evk rizsecet
 - 1-2 evk víz
 
