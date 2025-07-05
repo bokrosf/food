@@ -42,12 +42,13 @@
 
 ### Szójaszószos
 - 4-5 gerezd apróra vágott fokhagyma
-- 2 evk szójaszósz
+- 1 evk szójaszósz
 - 2 evk mirin
-- 1.5 evk méz
-- 1 tk rizsecet
-- 1-2 tk osztrigaszósz
-- 1-2 evk víz
+- 2 evk méz
+- 2 tk szezámolaj
+- 2 tk rizsecet
+- 1 evk víz
+- 1-2 tk osztrigaszósz opcionálisan
 
 ### Elkészítés
 1. Edénybe belönteni a szószt és utána bekapcsolni a lángot.
