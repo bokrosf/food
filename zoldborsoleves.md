@@ -2,6 +2,9 @@
 
 ## Hozzávalók
 - 400 g zöldborsó
+- 1.25 l víz
+- 2 tk só
+- 0.25 tk bors
 - 1 vastagabb petrezselyem
 - 1 vastagabb répa
 - 1 fokhagyma
