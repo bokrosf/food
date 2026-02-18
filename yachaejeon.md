@@ -1,21 +1,19 @@
 # Yachaejeon
-
-## Hozzávalók
 2 adag
 
-### Panír
-- 1 bögre liszt (200 g)
-- 1 bögre víz
-- 2 evk burgonyakeményítő
-- 1 evk ragacsos rizsliszt
+## Hozzávalók
+- kb. 230 g-nyi zöldség
+- 2 gerezd fokhagyma
+- 1 nagy fej shitake gomba vagy 2 kicsi
+- 6-7 cm cukkini julianre vágva
+- 1 répa julianre vágva
+- 0.5 vöröshagyma
+- 1 szár csemegehagyma felkarikázva
 - 0.5 tk só
-- 0.5 tk fekete bors
-
-### Zöldségek
-- 2-3 gerezd fokhagyma
-- 0.5 cukkini
-- 1 répa
-- 0.3 vöröshagyma esetleg zöldhagyma
+- 0.25 tk feketebors
+- 5 evk liszt
+- 2 tk keményítő vagy ragacsos rizsliszt
+- 4 evk víz vagy shitake gomba áztatóvíz
 
 ### Mártogatós
 - 1 evk szójaszósz
@@ -23,9 +21,10 @@
 - 1 tk megroppantot szezámmag
 
 ## Elkészítés
-1. Egy tálban összekeverni a panírhoz valókat.
-2. Julienne-re vágni a zöldségeket.
-3. Összekeverni a paníros tálban a zöldségeket. Ragasztóként kell működnie a panírnak.
-4. Közepes lángon felmelegíteni a serpenyőt és 2-3 evőkanál zsírt hozzáadni.
-5. Serpenyőben elegyengetni a zöldség-panír keveréket és hagyni, hogy mindkét oldala megsüljön. Macokhoz hasonlóan kell sütni kb. 2-3 percig.
+1. 30 percig áztatni a szárított shitake gombát.
+2. Julianre vágni a zöldségeket és a gombát.
+3. Egy tálban összekavarni a hozzávalókat és 3 percig hagyni.
+4. 3-4 evk zsírral a sütéshez.
+5. Zöldségeket elegyengetni, ne legyen vastag.
+6. Közepes lángon 3-4 percig sütni oldalanként. Fordításkkor esélyes, hogy kell még hozzá zsír.
 
